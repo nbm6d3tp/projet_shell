@@ -4,6 +4,9 @@
 
 **Système d'exploitation: Ubuntu**
 
+# Énoncé
+[projet.pdf](https://github.com/nbm6d3tp/projet_shell/files/14550996/projet.pdf)
+
 # Pour compiler et lancer le programme
 - À le root du projet, lancer cette commande pour compiler le programme:
 ```
