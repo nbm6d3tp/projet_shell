@@ -1,0 +1,27 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "clang-format.executable": "/usr/bin/clang-format",
+  "clang-format.style": "google",
+  "clang-format.language.c.enable": true,
+  "[c]": {
+    "editor.defaultFormatter": "xaver.clang-format",
+    "editor.wordBasedSuggestions": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.semanticHighlighting.enabled": true
+  },
+  "files.associations": {
+    "*.tpl": "html",
+    "wait.h": "c",
+    "types.h": "c",
+    "stdio.h": "c",
+    "stdlib.h": "c",
+    "string.h": "c",
+    "dash.h": "c",
+    "unistd.h": "c",
+    "dash_test.h": "c",
+    "minunit.h": "c"
+  }
+}
